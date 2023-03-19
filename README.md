@@ -1,7 +1,7 @@
 ![image](https://github.com/chencheng1203/Simple-CenterNet/blob/master/log/img3.jpg)
 
 # Simple-CenterNet
-This is a simple reimplement for the paper [centernet](https://arxiv.org/pdf/1904.07850.pdf). This repo can't achieve the same metrics as paper, it's a simple reimplement version, but you can read this code to learn how the algorithm work, and I write a **jupyter-notebook** inference code for inference visilization.
+A simple reimplement for the paper [centernet](https://arxiv.org/pdf/1904.07850.pdf). This repo dont't achieve the same performance as paper, it's a simple reimplement version and just for learning how the algorithm work.
 
 ### requirements
 - pytorch >= 1.3 & torchvision
